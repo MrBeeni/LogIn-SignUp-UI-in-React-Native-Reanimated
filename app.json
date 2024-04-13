@@ -1,6 +1,14 @@
 {
   "expo": {
     "name": "M Login",
-    "slug": "m-login"
+    "slug": "m-login",
+    "extra": {
+      "eas": {
+        "projectId": "001d19ef-ee63-452d-9422-c179dfd8ec62"
+      }
+    },
+    "android": {
+      "package": "com.beeni4429.mlogin"
+    }
   }
 }
